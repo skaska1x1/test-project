@@ -1,0 +1,14 @@
+{
+  "name": "js-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "parcel index.html --open --port 3000"
+  },
+  "keywords": [
+    "skaska1x1"
+  ],
+  "author": "skaska1x1",
+  "license": "ISC"
+}
