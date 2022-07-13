@@ -2,7 +2,7 @@
   "name": "js-start",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "watch": "parcel index.html --open --port 3000"
   },
